@@ -10,7 +10,7 @@ To work with this code:
 ```
 If wanted to use the other KITTI datasets, you should download the data from KITTI datasets http://www.cvlibs.net/datasets/kitti/raw_data.php and use contents of kitti_extraction to track features and have them stored in a specific .mat file. 
 
-Note: This code was originally developed by Lee E Clement for mono-msck (Clement, Lee E., et al. "The battle for filter supremacy: A comparative study of the multi-state constraint kalman filter and the sliding window filter." 2015 12th Conference on Computer and Robot Vision. IEEE, 2015.). 
+Note: This code was originally developed by Lee E Clement for mono-msckf (Clement, Lee E., et al. "The battle for filter supremacy: A comparative study of the multi-state constraint kalman filter and the sliding window filter." 2015 12th Conference on Computer and Robot Vision. IEEE, 2015.). 
 
 ## Credits
 Please cite properly if this code used for any academic and non-academic purposes.
